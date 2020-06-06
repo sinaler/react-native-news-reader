@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5dd5b7d6-88a4-4557-ab3f-ed5a64f8692b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web-build/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591470739037</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="build">
+      <created>1591470851051</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591470851051</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,17 +98,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="build" />
+    <option name="LAST_COMMIT_MESSAGE" value="build" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="297" y="127" key="CommitChangelistDialog2" timestamp="1591470738348">
+    <state x="297" y="127" key="CommitChangelistDialog2" timestamp="1591470850168">
       <screen x="0" y="23" width="1440" height="840" />
     </state>
-    <state x="297" y="127" key="CommitChangelistDialog2/0.23.1440.840@0.23.1440.840" timestamp="1591470738348" />
-    <state x="320" y="183" key="Vcs.Push.Dialog.v2" timestamp="1591470743522">
+    <state x="297" y="127" key="CommitChangelistDialog2/0.23.1440.840@0.23.1440.840" timestamp="1591470850168" />
+    <state x="320" y="183" key="Vcs.Push.Dialog.v2" timestamp="1591470915668">
       <screen x="0" y="23" width="1440" height="840" />
     </state>
-    <state x="320" y="183" key="Vcs.Push.Dialog.v2/0.23.1440.840@0.23.1440.840" timestamp="1591470743522" />
+    <state x="320" y="183" key="Vcs.Push.Dialog.v2/0.23.1440.840@0.23.1440.840" timestamp="1591470915668" />
     <state x="100" y="123" width="1240" height="640" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1591449868499">
       <screen x="0" y="23" width="1440" height="840" />
     </state>
