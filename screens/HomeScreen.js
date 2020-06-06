@@ -77,6 +77,7 @@ function DevelopmentModeNotice() {
       </Text>
     );
   }
+
 }
 
 function handleLearnMorePress() {

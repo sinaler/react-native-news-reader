@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5dd5b7d6-88a4-4557-ab3f-ed5a64f8692b" name="Default Changelist" comment="" />
+    <list default="true" id="5dd5b7d6-88a4-4557-ab3f-ed5a64f8692b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/SpaceMono-Regular.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/SpaceMono-Regular.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/HomeScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/HomeScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,12 +26,21 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -38,11 +53,45 @@
       <option name="presentableId" value="Default" />
       <updated>1591445977109</updated>
       <workItem from="1591445978929" duration="1119000" />
-      <workItem from="1591447179996" duration="291000" />
+      <workItem from="1591447179996" duration="4319000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1591447572546</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1591447572546</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="297" y="127" key="CommitChangelistDialog2" timestamp="1591447571584">
+      <screen x="0" y="23" width="1440" height="840" />
+    </state>
+    <state x="297" y="127" key="CommitChangelistDialog2/0.23.1440.840@0.23.1440.840" timestamp="1591447571584" />
+    <state x="320" y="183" key="Vcs.Push.Dialog.v2" timestamp="1591447585933">
+      <screen x="0" y="23" width="1440" height="840" />
+    </state>
+    <state x="320" y="183" key="Vcs.Push.Dialog.v2/0.23.1440.840@0.23.1440.840" timestamp="1591447585933" />
+    <state x="100" y="123" width="1240" height="640" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1591449868499">
+      <screen x="0" y="23" width="1440" height="840" />
+    </state>
+    <state x="100" y="123" width="1240" height="640" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1440.840@0.23.1440.840" timestamp="1591449868499" />
+    <state x="100" y="123" width="1240" height="640" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1591448192824">
+      <screen x="0" y="23" width="1440" height="840" />
+    </state>
+    <state x="100" y="123" width="1240" height="640" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.840@0.23.1440.840" timestamp="1591448192824" />
+    <state x="418" y="198" width="651" height="490" key="find.popup" timestamp="1591450936716">
+      <screen x="0" y="23" width="1440" height="840" />
+    </state>
+    <state x="418" y="198" width="651" height="490" key="find.popup/0.23.1440.840@0.23.1440.840" timestamp="1591450936716" />
   </component>
 </project>
