@@ -23,7 +23,7 @@ export default [
   {
     key: 'sol',
     name: 'soL',
-    url: 'http://haber.sol.org.tr/rss/tumicerik',
+    url: 'https://sol.org.tr/rss.xml',
     logo: require('../assets/images/logos/sol.png'),
     backgroundColor: '#e7e7e7',
   },

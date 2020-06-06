@@ -241,7 +241,9 @@ export default class Home extends React.Component {
     })
 
     if (this.isProviderActive(providersData[index].key)) {
-      fetch(provider.url)
+      fetch(provider.url, {
+        mode:'no-cors',
+      })
         .then(response => response.text())
         .then((response) => {
           parseString(response, (err, result) => {
