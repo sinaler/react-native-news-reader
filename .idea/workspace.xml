@@ -1,8 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5dd5b7d6-88a4-4557-ab3f-ed5a64f8692b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/web-build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web-build/index.html" afterDir="false" />
+    <list default="true" id="5dd5b7d6-88a4-4557-ab3f-ed5a64f8692b" name="Default Changelist" comment="add stable packages">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/navigation/BottomTabNavigator.js" beforeDir="false" afterPath="$PROJECT_DIR$/navigation/BottomTabNavigator.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/navigation/LinkingConfiguration.js" beforeDir="false" afterPath="$PROJECT_DIR$/navigation/LinkingConfiguration.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/old/views/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/old/views/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/HomeScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/HomeScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,7 +40,10 @@
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
   <component name="ProjectId" id="1cwiIXX0J9IWMKZjm6O93TOHoQt" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,10 +53,11 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="$PROJECT_DIR$/node_modules/@react-navigation/stack/src/types.tsx" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/old" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/screens" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -38,16 +66,19 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="yarn" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/old" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/screens" />
       <recent name="$PROJECT_DIR$/old" />
       <recent name="$PROJECT_DIR$/constants" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/old" />
+    </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -60,6 +91,10 @@
       <updated>1591445977109</updated>
       <workItem from="1591445978929" duration="1119000" />
       <workItem from="1591447179996" duration="4319000" />
+      <workItem from="1594157799523" duration="2067000" />
+      <workItem from="1595360596650" duration="65000" />
+      <workItem from="1597729680543" duration="3407000" />
+      <workItem from="1599556461767" duration="6369000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1591447572546</created>
@@ -89,39 +124,80 @@
       <option name="project" value="LOCAL" />
       <updated>1591470851051</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="build try">
+      <created>1591471116644</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1591471116644</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add stable packages">
+      <created>1599592954215</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1599592954215</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="first commit" />
     <MESSAGE value="build" />
-    <option name="LAST_COMMIT_MESSAGE" value="build" />
+    <MESSAGE value="build try" />
+    <MESSAGE value="add stable packages" />
+    <option name="LAST_COMMIT_MESSAGE" value="add stable packages" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="297" y="127" key="CommitChangelistDialog2" timestamp="1591470850168">
+    <state x="297" y="127" key="CommitChangelistDialog2" timestamp="1599592961948">
       <screen x="0" y="23" width="1440" height="840" />
     </state>
-    <state x="297" y="127" key="CommitChangelistDialog2/0.23.1440.840@0.23.1440.840" timestamp="1591470850168" />
-    <state x="320" y="183" key="Vcs.Push.Dialog.v2" timestamp="1591470915668">
+    <state x="297" y="127" key="CommitChangelistDialog2/0.23.1440.840@0.23.1440.840" timestamp="1599592961948" />
+    <state x="100" y="123" width="1240" height="640" key="DiffContextDialog" timestamp="1599575697612">
       <screen x="0" y="23" width="1440" height="840" />
     </state>
-    <state x="320" y="183" key="Vcs.Push.Dialog.v2/0.23.1440.840@0.23.1440.840" timestamp="1591470915668" />
+    <state x="100" y="123" width="1240" height="640" key="DiffContextDialog/0.23.1440.840@0.23.1440.840" timestamp="1599575697612" />
+    <state x="320" y="183" key="Vcs.Push.Dialog.v2" timestamp="1591471117978">
+      <screen x="0" y="23" width="1440" height="840" />
+    </state>
+    <state x="320" y="183" key="Vcs.Push.Dialog.v2/0.23.1440.840@0.23.1440.840" timestamp="1591471117978" />
     <state x="100" y="123" width="1240" height="640" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1591449868499">
       <screen x="0" y="23" width="1440" height="840" />
     </state>
     <state x="100" y="123" width="1240" height="640" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1440.840@0.23.1440.840" timestamp="1591449868499" />
-    <state x="100" y="123" width="1240" height="640" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1591448192824">
+    <state x="100" y="123" width="1240" height="640" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1599571197413">
       <screen x="0" y="23" width="1440" height="840" />
     </state>
-    <state x="100" y="123" width="1240" height="640" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.840@0.23.1440.840" timestamp="1591448192824" />
-    <state x="508" y="364" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591470665571">
+    <state x="100" y="123" width="1240" height="640" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.840@0.23.1440.840" timestamp="1599571197413" />
+    <state x="508" y="364" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1594158317251">
       <screen x="0" y="23" width="1440" height="840" />
     </state>
-    <state x="508" y="364" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.840@0.23.1440.840" timestamp="1591470665571" />
+    <state x="508" y="364" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.840@0.23.1440.840" timestamp="1594158317251" />
     <state x="418" y="198" width="651" height="490" key="find.popup" timestamp="1591450936716">
       <screen x="0" y="23" width="1440" height="840" />
     </state>
